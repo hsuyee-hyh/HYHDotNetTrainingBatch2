@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HYHDotnetTrainingBatch2.WebAPI", "HYHDotnetTrainingBatch2.WebAPI\HYHDotnetTrainingBatch2.WebAPI.csproj", "{422CE824-737A-446C-A884-1BFBD4AAC6C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HYHDotnetTrainingBatch2.WebAPI.Database", "HYHDotnetTrainingBatch2.Database\HYHDotnetTrainingBatch2.WebAPI.Database.csproj", "{781255C5-084B-4ED9-894B-F0AA790E46CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HYHDotnetTrainingBatch2.WebAPI.DataAccess", "HYHDotnetTrainingBatch2.WebAPI.DataAccess\HYHDotnetTrainingBatch2.WebAPI.DataAccess.csproj", "{D503BAE7-DBD2-4A6D-BEDC-95CFC6005883}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HYHDotnetTrainingBatch2.WebAPI.BusinessLogic", "HYHDotnetTrainingBatch2.WebAPI.BusinessLogic\HYHDotnetTrainingBatch2.WebAPI.BusinessLogic.csproj", "{BB56E04C-10EF-4304-A44C-C1929454006F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HYHDotnetTrainingBatch2.ConsoleClientApp", "HYHDotnetTrainingBatch2.ConsoleClientApp\HYHDotnetTrainingBatch2.ConsoleClientApp.csproj", "{B741D6D7-5DA3-4A08-86AB-7E63DB455A3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{422CE824-737A-446C-A884-1BFBD4AAC6C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{422CE824-737A-446C-A884-1BFBD4AAC6C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{422CE824-737A-446C-A884-1BFBD4AAC6C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{422CE824-737A-446C-A884-1BFBD4AAC6C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{781255C5-084B-4ED9-894B-F0AA790E46CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{781255C5-084B-4ED9-894B-F0AA790E46CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{781255C5-084B-4ED9-894B-F0AA790E46CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{781255C5-084B-4ED9-894B-F0AA790E46CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D503BAE7-DBD2-4A6D-BEDC-95CFC6005883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D503BAE7-DBD2-4A6D-BEDC-95CFC6005883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D503BAE7-DBD2-4A6D-BEDC-95CFC6005883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D503BAE7-DBD2-4A6D-BEDC-95CFC6005883}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB56E04C-10EF-4304-A44C-C1929454006F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB56E04C-10EF-4304-A44C-C1929454006F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB56E04C-10EF-4304-A44C-C1929454006F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB56E04C-10EF-4304-A44C-C1929454006F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B741D6D7-5DA3-4A08-86AB-7E63DB455A3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B741D6D7-5DA3-4A08-86AB-7E63DB455A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B741D6D7-5DA3-4A08-86AB-7E63DB455A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B741D6D7-5DA3-4A08-86AB-7E63DB455A3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94CD742C-A966-4094-991B-861D20A14073}
+	EndGlobalSection
+EndGlobal
